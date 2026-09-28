@@ -1,7 +1,7 @@
 <Solution>
   <Project Path="BlogDataLibrary/BlogDataLibrary.csproj" />
   <Project Path="BlogTestUI/BlogTestUI.csproj" />
-  <Project Path="DelCorroBlogDB/DelCorroBlogDB.sqlproj">
+  <Project Path="DelCorroBlogDB/DelCorroBlogDB.sqlproj" Id="86ee75f7-c6d7-411c-8204-b95b1db05517">
     <Build />
     <Deploy />
   </Project>
